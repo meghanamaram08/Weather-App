@@ -1,3 +1,10 @@
+# ScreenShot
+<img width="1920" height="1080" alt="Screenshot 2025-07-28 195221" src="https://github.com/user-attachments/assets/291721a7-90cc-4e50-907e-01732e0634c6" />
+
+
+
+
+
 # React Weather App🌤🌤
 
 This is a sample react weather app.
